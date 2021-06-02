@@ -1,13 +1,11 @@
 <?php 
 namespace Namdevel;
-
 /*
 @ Unofficial TIX ID PHP Class
 @ Author : namdevel
 @ Created at 03-06-2021 23:26
 @ Last Modified at 03-06-2021 00:41
 */
-
 class TixID
 {
     const API_URL = 'https://api.tix.id';
