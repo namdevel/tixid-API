@@ -7,6 +7,8 @@
 
 Compliant with the June 03, 2021 TixID API update.
 
+:coffee: Buy Me a Coffee : https://trakteer.id/namdevel
+
 Features
 ------------
 - [x] TIX -> getAuthToken
