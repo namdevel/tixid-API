@@ -12,7 +12,7 @@ Compliant with the June 03, 2021 TixID API update.
 Installation
 ------------
 ```
-composer require namdevel/gopay-api
+composer require namdevel/tixid-api
 ```
 
 Features
