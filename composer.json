@@ -1,0 +1,19 @@
+{
+    "name": "namdevel/tixid-api",
+    "description": "Un-official Tix ID API Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Namdevel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "namdevel",
+            "email": "namdevel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
