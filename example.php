@@ -1,5 +1,6 @@
 <?php 
-require('src/Tix.php');
+require __DIR__ . '/vendor/autoload.php';
+use Namdevel\TixID;
 
 $token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtc2lz....'; //echo $tix->getAuthToken();
 $tix   = new TixID($token);
